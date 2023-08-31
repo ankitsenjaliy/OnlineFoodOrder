@@ -1,0 +1,7 @@
+Key store path :- D:\OnlineFoodOrder\Online Food Order.jks
+password:- 762406
+
+Alias :- Online Food Order
+
+Name :- Ankit Senjaliya
+Organizational Unit :- MDIDM INFOWAY

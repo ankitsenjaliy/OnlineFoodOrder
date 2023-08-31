@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Online Food Order</string>
+
+    <string name="Open"> Open </string>
+    <string name="Close"> Close </string>
+
+    <string name="Please_Click_Back_Again_To_Exit"> Please Click Back Again To Exit </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SplashScreen" parent="Theme.OnlineFoodOrder">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="colorPrimaryVariant">@color/red</item>
+    </style>
+
+    <style name="Navigation" parent="Theme.OnlineFoodOrder">
+        <item name="colorPrimaryVariant">@color/orange</item>
+    </style>
+
+    <style name="Profile" parent="Theme.OnlineFoodOrder">
+        <item name="colorPrimaryVariant">@color/lakda</item>
+    </style>
+
+    <style name="UpdateProfile" parent="Theme.OnlineFoodOrder">
+        <item name="colorPrimaryVariant">@color/lakda</item>
+    </style>
+
+</resources>
